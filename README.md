@@ -2,7 +2,7 @@
 и несколько - движение пешеходов по переходам (8 шт):
 
 
-![](http://github.com/velllum/INITI/_.png)
+![](https://github.com/velllum/INITI/_.png)
 ![ALT TEXT](../INITI/_.png)
 
 
